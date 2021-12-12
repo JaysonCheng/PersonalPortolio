@@ -13,9 +13,7 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Me</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>Enthusiastic, Futuristic, Detail-Oriented, Disciplined, Motivated</p>
-  
-                    <p>are how I will describe myself.</p>
+                    <p>Enthusiastic, Futuristic, Detail-Oriented, Disciplined, Motivated<br />are how I will describe myself.</p>
                     <p>
                     I am fascinated with the world of technology. Ever since I was a young boy, I have always been attracted 
                     to the rapid growth of technology and especially how it functioned. Throwback to the first time I ever 
@@ -40,17 +38,14 @@ export default class About extends Component {
                     machine in the future which could make a huge impact to the society.
                     </p>
                     <p></p>
-                    <p>
-                    I am currently looking for summer internship opportunities for 2021 to keep honing my technical skills 
-                    and get exposed to solving more real-world problems. Please feel free to drop me a DM or send me an 
-                    email if you want to know more about me!
-                    </p>
                     <p></p>
-                    <p>Programming Languages: Java, C++, C, Javascript, HTML, CSS, Familiar with Python and Ruby</p>
-                    <p>Platform: Node.js, Unity </p>
-                    <p>Database: MongoDB, MySQL</p>
-                    <p>Frameworks: Express.js, React, Bootstap, Jest, TestCafe, JavaFX, JUnit, JPA</p>
-                    <p>Tools: Git, Terraform, Jira, Confluence, VS Code IDE, IntelliJ IDE, Familiar with AWS</p>
+                    <p>Languages: Java, C#, Ruby, Javascript, Typescript, Unix, HTML, CSS
+                    <br />Development Frameworks: React.js, Express.js, .NET Core, SpringBoot, Ruby on Rails, Bootstrap, Hibernate, GraphQL
+                    <br />Testing Frameworks: xUnit , JUnit, Jest, RSpec, TestCafe
+                    <br />Databases: SQL Server, MySQL, MongoDB
+                    <br />Tools: Node.js, Git, CI/CD, Postman, Docker, AWS, Azure, Terraform, Jira, Confluence, Pivotal Tracker, Figma
+                    </p>
+                    
                     <p style={{fontWeight: "bold", color: "#80c0f7", textAlign: "center", fontSize: "1.6rem", fontStyle: "italic"}}> 
                         "Success is no accident. It is hard work, perseverance,
                         learning, studying, sacrifice and most of all, love of what you

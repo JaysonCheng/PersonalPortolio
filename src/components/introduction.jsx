@@ -14,8 +14,8 @@ export default class Introduction extends Component {
                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                       <div className="slider-text-inner js-fullheight">
                         <div className="desc">
-                          <h1 style={{color: 'white'}}>I'm <br />JAYSON <br />CHENG</h1>
-                          <p><a className="btn btn-primary btn-learn" href="https://drive.google.com/file/d/1twn-uHPAmjQCgw7BbZ_x2duqs-4uHDDL/view" target="_blank" rel="noopener noreferrer" style={{color: 'white', border: '2px solid white'}}>View Resume <i className="icon-download4" /></a></p>
+                          <h1 style={{color: 'white'}}>I'm <br />JAYSON CHENG</h1>
+                          <p><a className="btn btn-primary btn-learn" href="https://drive.google.com/file/d/1SyqZfRdm2gFTRZ5u43TaVM7kIDykdcee/view?usp=sharing" target="_blank" rel="noopener noreferrer" style={{color: 'white', border: '2px solid white'}}>View Resume <i className="icon-download4" /></a></p>
                         </div>
                       </div>
                     </div>
@@ -29,7 +29,7 @@ export default class Introduction extends Component {
                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                       <div className="slider-text-inner">
                         <div className="desc">
-                          <h1 style={{color: 'white'}}>Future<br /> SOFTWARE ENGINEER </h1>
+                          <h1 style={{color: 'white'}}>Software Engineer<br />@ Meta</h1>
                           <p><a className="btn btn-primary btn-learn" href="https://github.com/JaysonCheng?tab=repositories" target="_blank" rel="noopener noreferrer" style={{color: 'white', border: '2px solid white'}}>View Projects <i className="icon-briefcase3" /></a></p>
                         </div>
                       </div>
